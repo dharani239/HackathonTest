@@ -1,0 +1,5 @@
+﻿-------------------------------------Medical Health SOFTWARE----------------------------------
+TO ADD Disease------------ ------------------------>PRESS 1
+TO Add SYMPTOM TO THE DISEASE---------------------->PRESS 2
+TO CHECK PATIENT----------------------------------->PRESS 3
+PS: ANY OTHER KEY IS CONSIDERED AS EXIT.....................................
